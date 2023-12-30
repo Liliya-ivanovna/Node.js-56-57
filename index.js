@@ -11,4 +11,5 @@ bot.on('message',async msg=>{
        await bot.sendSticker(chatId,"https://i.pinimg.com/564x/db/32/c3/db32c3b3912b53cd4ed7216a31540caa.jpg")
         await bot.sendMessage(chatId, 'Привіт, як ти?')
     }
+   
 })
